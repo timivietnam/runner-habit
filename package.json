@@ -2,7 +2,7 @@
   "name": "habit-run",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://timivietnam.github.io/runner-habit",
+  "homepage": "https://runner-habit.timistudio.dev",
   "dependencies": {
     "@types/node": "^15.6.0",
     "@types/react": "^17.0.6",
