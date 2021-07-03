@@ -13,6 +13,7 @@ import {
 
 const RightBlock = ({
   title,
+  banner,
   content,
   button,
   icon,
@@ -51,7 +52,7 @@ const RightBlock = ({
             </ContentWrapper>
           </Col>
           <Col lg={11} md={11} sm={12} xs={24}>
-            <SvgIcon src={icon} width="100%" height="100%" />
+            <img alt={title} src={`/img/${banner}`} height="400px" />
           </Col>
         </Row>
       </Fade>
